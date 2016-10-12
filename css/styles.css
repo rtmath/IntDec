@@ -1,0 +1,29 @@
+.left {
+  width: 33%;
+  float: left;
+}
+
+.center {
+  width: 33%;
+  float: left;
+}
+
+.right {
+  width: 33%;
+  float: left;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: solid black;
+}
+
+img {
+  height: 480px;
+  width: 640px;
+}
+
+p {
+  text-align: center;
+  font-size: 18pt;
+}
